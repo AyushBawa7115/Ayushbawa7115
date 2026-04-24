@@ -66,4 +66,4 @@ Instead of a basic chatbot, this system uses a **mode-based architecture**:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ayushbawa7115
-- LinkedIn: https://linkedin.com/ayushbawa7115
+- LinkedIn: https://linkedin.com/in/ayushbawa7115
