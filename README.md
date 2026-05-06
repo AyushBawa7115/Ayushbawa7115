@@ -1,69 +1,148 @@
-# Hi, I'm Ayush 👋
+# 👋 Hey, I'm Ayush 
 
-## 🚀 About Me
-Computer Science student at Thompson Rivers University (TRU).  
-I build full-stack web applications with a focus on **real-world functionality, clean UI, and backend logic**.
-
-Currently exploring **AI-powered systems and API-based applications**.
+🚀 Computer Science Student at Thompson Rivers University
+💻 Building AI, ML, Full-Stack, and Analytics Projects
+📍 Kamloops, British Columbia, Canada
 
 ---
 
-## 🔥 Featured Project – AI Study Assistant
+# 🧠 About Me
 
-### 🤖 ScholarAI (AI Study Assistant)
-A full-stack AI-powered assistant built using **PHP, MySQL, JavaScript, and OpenAI API**.
+I enjoy building practical software projects that combine:
 
-Instead of a basic chatbot, this system uses a **mode-based architecture**:
+* Artificial Intelligence
+* Machine Learning
+* Backend Development
+* Data Visualization
+* Modern Interactive UI/UX
 
-- 🧠 Explain Mode – Breaks down complex topics simply  
-- 📄 Summarize Mode – Converts long notes into key points  
-- 💻 Code Help Mode – Explains and debugs code  
-- 📝 Quiz Mode – Generates questions with answers  
-- 📅 Study Plan Mode – Creates structured learning schedules  
+Currently focused on:
 
-### ⚙️ Key Highlights
-- Secure backend API integration (no API exposure)
-- Chat history stored in MySQL
-- Clean dashboard-style UI
-- Structured prompt handling for controlled AI responses
-
----
-
-## 🧩 Other Projects
-
-### 🔐 Authentication System
-- Login & Signup system with password hashing
-- Session management and user dashboard
-- Secure backend implementation using PHP & MySQL
-
-### 📦 QR Code Generator
-- Generate custom and random QR codes
-- Download as PNG
-- Save QR history in database
-- Full-stack implementation with modern UI
+* Python & Flask
+* Machine Learning Systems
+* Predictive Analytics
+* Full-Stack Web Applications
+* Real-Time Dashboards
+* AI-powered Applications
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Featured Projects
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, XAMPP  
-- **APIs:** OpenAI API  
+## 🧠 OccupancyML – Machine Learning Occupancy Predictor
+
+A futuristic AI-powered dashboard that predicts room occupancy using machine learning and historical data.
+
+### Features
+
+* ML occupancy prediction
+* Actual vs predicted analytics
+* Trend forecasting
+* Feature importance visualization
+* Interactive futuristic UI
+* 3D hover effects & analytics dashboard
+* Flask backend with trained ML model
+
+### Tech Stack
+
+`Python` `Flask` `Scikit-learn` `Pandas` `Chart.js` `JavaScript`
 
 ---
 
-## 📈 What I'm Improving
+## 📅 Smart Booking System
 
-- Backend architecture & scalability  
-- API integrations  
-- AI application design  
-- Clean and professional UI/UX  
+A complete booking management system with admin controls and slot management.
+
+### Features
+
+* User authentication
+* Booking approval system
+* Dynamic slot availability
+* Admin dashboard
+* Responsive UI
+* Real-time booking status handling
+
+### Tech Stack
+
+`PHP` `MySQL` `JavaScript` `CSS` `HTML`
 
 ---
 
-## 📫 Connect With Me
+## 🔳 QR Code Generator
 
-- GitHub: https://github.com/ayushbawa7115
-- LinkedIn: https://linkedin.com/in/ayushbawa7115
+A modern QR code generation web application with advanced UI styling and customization.
+
+### Features
+
+* Dynamic QR generation
+* Download support
+* Stylish responsive interface
+* Hover animations & interactive effects
+
+### Tech Stack
+
+`JavaScript` `HTML` `CSS`
+
+---
+
+# 🛠️ Technologies & Tools
+
+### Languages
+
+* Python
+* JavaScript
+* PHP
+* SQL
+* HTML/CSS
+
+### Frameworks & Libraries
+
+* Flask
+* Scikit-learn
+* Pandas
+* Chart.js
+
+### Tools
+
+* VS Code
+* Git & GitHub
+* XAMPP
+* MySQL
+* Jupyter Notebook
+
+---
+
+# 📈 Currently Learning
+
+* Advanced Machine Learning
+* NLP & AI Assistants
+* API Development
+* Real-Time Systems
+* Cloud Deployment
+* System Design
+
+---
+
+# 🎯 Goals
+
+I’m actively working toward building:
+
+* Production-level AI systems
+* Intelligent analytics platforms
+* Enterprise-style applications
+* Scalable backend systems
+
+and gaining experience through internships and real-world development.
+
+---
+
+# 📫 Connect With Me
+
+* GitHub: https://github.com/AyushBawa7115
+* LinkedIn: linkedin/in/ayushbawa715
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy transforming simple ideas into interactive software systems with modern UI and AI-powered functionality.
