@@ -139,7 +139,7 @@ and gaining experience through internships and real-world development.
 # 📫 Connect With Me
 
 * GitHub: https://github.com/AyushBawa7115
-* LinkedIn: linkedin/in/ayushbawa715
+* LinkedIn: www.linkedin.com/in/ayushbawa7115
 
 ---
 
