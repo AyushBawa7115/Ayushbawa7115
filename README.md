@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ayush 
+# 👋 Hy, I'm Ayush 
 
 🚀 Computer Science Student at Thompson Rivers University
 💻 Building AI, ML, Full-Stack, and Analytics Projects
